@@ -1,1 +1,1 @@
-# duma reload
+# duma reload time
