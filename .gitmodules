@@ -1,0 +1,16 @@
+[submodule "OCA/account-reconcile"]
+	path = OCA/account-reconcile
+	url = https://github.com/OCA/account-reconcile.git
+	branch = 16.0
+[submodule "OCA/bank-statement-import"]
+	path = OCA/bank-statement-import
+	url = https://github.com/OCA/bank-statement-import.git
+	branch = 16.0
+[submodule "OCA/l10n-spain"]
+	path = OCA/l10n-spain
+	url = https://github.com/OCA/l10n-spain.git
+	branch = 16.0
+[submodule "OCA/server-ux"]
+	path = OCA/server-ux
+	url = https://github.com/OCA/server-ux.git
+	branch = 16.0
